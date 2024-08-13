@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634829160318",
+    "project_id": "h4bit-9b8ae",
+    "storage_bucket": "h4bit-9b8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634829160318:android:8f311ddf4d61ea33893d2f",
+        "android_client_info": {
+          "package_name": "com.h4b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxQjs0T-Ei4Xqcs9Jlz2ITgckLOck_po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
